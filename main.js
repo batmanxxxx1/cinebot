@@ -3,7 +3,7 @@ const TelegramBot = require("node-telegram-bot-api");
 const axios = require("axios");
 
 // Token & API key
-const token = "8333337547:AAHRapfjBb36AhqT888dhgkI7dOqKIDDHqE";
+const token = "7543395925:AAH7kCMErKPgnLNOkBvBnhiIKOJTqjQKqus";
 const OMDB_API_KEY = "418b967";
 
 // Konstanta untuk batasan Telegram
